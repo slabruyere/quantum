@@ -1,4 +1,4 @@
 quantum
 =======
 
-Simulation codes for quantum computing
+Simulation codes for quantum computing.
