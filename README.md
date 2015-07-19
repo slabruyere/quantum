@@ -13,4 +13,4 @@ Environments in which to use this package
 What you need to use this software
 --------------------------------------
 
-You need to [download GNU Octave](https://www.gnu.org/software/octave/download.html), which has a version for very platform.
+You need to [download GNU Octave](https://www.gnu.org/software/octave/download.html), which has a version for every platform.
